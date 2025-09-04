@@ -58,5 +58,41 @@
 - **ORM (Object Relational Mapping)**  
   Herramientas que permiten manipular bases de datos mediante objetos y código, facilitando la programación.
 - **Operaciones CRUD desde el backend**  
-  Crear, Leer, Actualizar y
+  Crear, Leer, Actualizar y Eliminar datos desde el servidor.
+
+### 4. Seguridad Básica en Aplicaciones Web
+- **Validación de formularios**  
+  Comprobar que los datos ingresados por el usuario sean correctos y seguros.
+- **Autenticación y autorización**  
+  Autenticación verifica la identidad del usuario; autorización determina qué puede hacer el usuario dentro de la aplicación.
+
+---
+
+## Propósito de Aprendizaje 3: Implementar y Desplegar una Aplicación Web Funcional
+
+### 1. Integración de Frontend y Backend
+- **Interfaz de usuario frontend**  
+  Es la parte visual con la que interactúa el usuario.
+- **Manejo de API**  
+  Comunicación entre frontend y backend para intercambiar datos.
+- **Proceso de solicitud y respuesta en el backend**  
+  El backend recibe las solicitudes del frontend, las procesa y envía respuestas.
+
+### 2. Almacenamiento en Servidor
+- **Tipos de servidores**  
+  Pueden ser físicos, virtuales, dedicados o compartidos, según las necesidades del proyecto.
+- **Servicios de hosting**  
+  Empresas que ofrecen alojamiento de aplicaciones web (ej: AWS, Heroku, Vercel).
+- **Proveedores de servicios de almacenamiento**  
+  Plataformas para guardar archivos, bases de datos y copias de seguridad (ej: Google Cloud Storage, Azure).
+
+### 3. Optimización y Rendimiento
+- **Optimización de recursos (imágenes, scripts)**  
+  Mejorar el tiempo de carga y la eficiencia de la aplicación, reduciendo el tamaño de imágenes y archivos.
+- **Despliegue de aplicaciones web**  
+  Publicar la aplicación en un servidor para que sea accesible a los usuarios.
+- **CI/CD básico**  
+  Automatización del proceso de integración, pruebas y despliegue continuo.
+- **Documentación del proyecto**  
+  Escribir guías, manuales y referencias técnicas que expliquen el funcionamiento, uso e instalación de la aplicación. La documentación clara ayuda a nuevos desarrolladores, facilita el mantenimiento y mejora la colaboración.
 
